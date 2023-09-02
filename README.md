@@ -14,7 +14,7 @@
 
 ## 👨🏻‍💻 About Me:
 
- 🏦 Hi, I'm **AKSHIT GUPTA**, a **COMPUTER SCIENCE** Student 👨🏻‍💻 from India. I'm a **creative real world problem solving enthusiast** and **a product guy**, with a constantly growing love for kick ass products. I learn by hacking on real time projects
+ 🏦 Hi, I'm **AKSHIT GUPTA**, a **COMPUTER SCIENCE** Student 👨🏻‍💻 from India. I'm on a perpetual journey of learning and creating.
  
  💻 I'm currently trying to build my skill in **CSS** , **C++** , **HTML**  and **PYTHON**
  
