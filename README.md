@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="35px"> Hi.. I am AKSHIT GUPTA </h1>
 
 <h3 align="center">
-  <span>STUDENT <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="35px">  from India</span>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="35px"> <span>CS STUDENT from India</span>
 </p>
 <H5>
   MY SOCIAL MEDIA HANDLES-->
